@@ -1,4 +1,4 @@
-# Multimodal Sarcasm Detection  
+# Multimodal Sarcasm Classification  
 
 ## Overview  
 
